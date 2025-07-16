@@ -49,4 +49,5 @@ This project is a data-driven analysis aimed at proactively identifying underper
 
 The analysis successfully identified `Host C` as the most critical risk. While its failure rate was high, the most significant finding was that it was the only host to exhibit a pattern of **consecutive failures**. This type of behavior is a strong predictor of imminent system failure. The key recommendation from this analysis is to fine-tune monitoring systems to prioritize alerting on consecutive error patterns over simple, isolated failure rates.
 
-*(Optional: You can even embed one of your saved graphs directly into the README!)*
+<img width="840" height="550" alt="download" src="https://github.com/user-attachments/assets/ec528c3a-29db-4c26-9e27-6a73cac23312" />
+
