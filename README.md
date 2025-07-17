@@ -51,3 +51,7 @@ The analysis successfully identified `Host C` as the most critical risk. While i
 
 <img width="840" height="550" alt="download" src="https://github.com/user-attachments/assets/ec528c3a-29db-4c26-9e27-6a73cac23312" />
 
+
+<img width="840" height="550" alt="download" src="https://github.com/user-attachments/assets/ad34e7f6-bcaf-4d3c-a62a-13b23bc9ad34" />
+
+
